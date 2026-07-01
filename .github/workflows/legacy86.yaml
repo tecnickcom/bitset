@@ -12,7 +12,7 @@ jobs:
         with:
           go-version: ${{ matrix.go-version }}
       - name: Checkout code
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.0
       - name: Test on 386
         run: |
           GOARCH=386 go test

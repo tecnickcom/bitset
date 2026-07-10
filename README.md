@@ -210,10 +210,6 @@ go test
 go test -cover
 ```
 
-## Stars
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=bits-and-blooms/bitset&type=Date)](https://www.star-history.com/#bits-and-blooms/bitset&Date)
 
 ## Further reading
 
